@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tuntikirjaus>
+  <tunti>
+    <kayttaja>Linus</kayttaja>
+    <paiva>2013-12-12</paiva>
+    <tunnit>5</tunnit>
+    <minuutit>59</minuutit>
+  </tunti>
+  <tunti>
+    <kayttaja>Linus</kayttaja>
+    <paiva>9.1.2014</paiva>
+    <tunnit>3</tunnit>
+    <minuutit>23</minuutit>
+  </tunti>
+  <tunti>
+    <kayttaja>Linus</kayttaja>
+    <paiva>9.1.2014</paiva>
+    <tunnit>3</tunnit>
+    <minuutit>23</minuutit>
+  </tunti>
+  <tunti>
+    <kayttaja>Bjarne</kayttaja>
+    <paiva>9.1.2014</paiva>
+    <tunnit>2</tunnit>
+    <minuutit>21</minuutit>
+  </tunti>
+  <tunti>
+    <kayttaja>Linus</kayttaja>
+    <paiva>9.1.2014</paiva>
+    <tunnit>4</tunnit>
+    <minuutit>33</minuutit>
+  </tunti>
+  <tunti>
+    <kayttaja>Linus</kayttaja>
+    <paiva>9.1.2014</paiva>
+    <tunnit>4</tunnit>
+    <minuutit>33</minuutit>
+  </tunti>
+</tuntikirjaus>

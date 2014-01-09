@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<employee>
+  <User>
+    <username>Linus</username>
+    <password>linus</password>
+  </User>
+  <User>
+    <username>Richard</username>
+    <password>richard</password>
+  </User>
+  <User>
+    <username>Monty</username>
+    <password>monty</password>
+  </User>
+  <User>
+    <username>Bjarne</username>
+    <password>bjarne</password>
+  </User>
+</employee>
